@@ -1,0 +1,69 @@
+                                       Internet of Things 
+Assinment-1
+										P.Samuel john
+									18481A1282 (INFORMATION TECHNOLOGY) 
+Applications and their Features:
+
+1.Smart Irrigation:
+Features: measures how much water the tree needs and provides that amount of water.
+
+2.Water Quality Management:
+Features: identify metrics such as total dissolved solids (TDS), bacteria, chlorine, electrical conductivity.
+
+3.Patient Surveillance/Remote Patient Monitoring:
+Features:patients hospital stay duration thanks to early diagnosis of complications,hospital readmissions.
+
+4.Supply Chain Control:
+Features:show the location of goods using GPS,track the speed of movement providing an accurate estimated time of arrival (ETA) for goods,
+monitor warehouse conditions such as temperature, humidity, light intensity, and other environmental factors.
+
+5.Connected Vehicles:
+Features:these vehicles provide GPS enabled location detection feature that helps them detect traffic congestions.
+
+6.Smart Grid:
+Features: increasing attention regarding climate change and carbon emissions, utilities focus on reducing energy consumption.
+
+7.Companion Robots:
+Features:Sensors detect objects that surround the robot and enable the robot to move. 
+
+8.Sociometric badges:
+Features: measure the amount of face-to-face interaction, conversational time, physical proximity to other people, and physical activity levels using social signals derived from vocal features, body motion, and relative location.
+
+9.Fall Detection:
+Features: detect falls using geolocation data and summon help.
+
+10.Ultraviolet Radiation Monitoring:
+Features: measure UV sun rays to warn people not to be exposed in certain hours.
+
+11.Wearables:
+Virtual glasses, fitness bands.
+Features of Wearables:
+to monitor calorie expenditure and heart beats, or GPS tracking belts.
+
+12.Noise Monitoring:
+features: monitor noise levels,manage noise levels.
+
+13.Structural Health Monitoring:
+Features: predict structural damage, and prepare action plans for structures such as bridges, buildings, stadiums, ships, airplanes.
+
+14.Waste Management:
+Features: monitor fill levels for conventional bins and send the data to the relevant department of the city hall.
+
+15.Smart Factories:
+Industrial process automation/optimization,Energy Management,Enterprise Asset management.
+Features:Increased operational efficiency,Better control over the sales lifecycle,More efficient safety and compliance checks,More responsive smart environment.
+
+16.Outdoor surveillance:
+Features: risk of crime is minimized.
+
+17.Remote Control Appliances:
+Features:turning on lights,starting the coffee maker,setting temperature,open up a music playlist,locking doors.
+
+18.Motion detection:
+Features: It streams homes/office videos and lets users receive alerts when it detects any activity.
+
+19.Smart lighting:
+Features: provide optimum lighting, street lighting systems can save up to 80% of the energy.
+
+20.Smart parking:
+Features:parking problems in a city can be minimized.
